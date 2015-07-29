@@ -28,6 +28,7 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 public with sharing class Milestone1_Calendar_Item 
 {
+	//US_001_comment goes here
     public String aid {get;set;}
     public String name {get;set;}
     public Date theDate {get;set;}
